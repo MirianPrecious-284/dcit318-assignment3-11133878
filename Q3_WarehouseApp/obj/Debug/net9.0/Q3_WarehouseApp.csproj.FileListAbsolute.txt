@@ -1,0 +1,5 @@
+C:\Users\pc\dcit318-assignment3-11133878\Q3_WarehouseApp\obj\Debug\net9.0\Q3_WarehouseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\dcit318-assignment3-11133878\Q3_WarehouseApp\obj\Debug\net9.0\Q3_WarehouseApp.AssemblyInfoInputs.cache
+C:\Users\pc\dcit318-assignment3-11133878\Q3_WarehouseApp\obj\Debug\net9.0\Q3_WarehouseApp.AssemblyInfo.cs
+C:\Users\pc\dcit318-assignment3-11133878\Q3_WarehouseApp\obj\Debug\net9.0\Q3_WarehouseApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\dcit318-assignment3-11133878\Q3_WarehouseApp\obj\Debug\net9.0\Q3_WarehouseApp.sourcelink.json
